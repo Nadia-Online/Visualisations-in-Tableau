@@ -36,10 +36,14 @@ By watching how these extremes evolve, the public can better understand where th
 
 The following are just screenshots, kindly refer to the live dashboards for further visualisations.
 
+## 📊  Interact with the reports
+*   🔗 **[Interact with the reports about discounts here](https://sites.google.com/view/nadia-online/projects/deep-analysis)**
+*   **[Download the WorkBook file from here](Change.twb)**
+*   
 <img src="una.png">
 
 <img src="dos.png">
 
 <img src="six.png">
 
-[Open the workbook here] 
+
