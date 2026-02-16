@@ -1,22 +1,30 @@
 
-### 📈  Shifts in UK Employment Markets (2011/2014) 
+### 📈  Shifts in UK Employment Market (2011-2014) 
 
 This repository contains data visualisation projects developed in Tableau to analyse regional economic shifts in the United Kingdom. The data set is named as UK Industrial Employment Trends (EMSI) and was provided by JustIT.
 
-**Situation:**  
-Economic fluctuations between 2011 and 2014 significantly impacted UK regions, requiring a clear way to distinguish between broad trends and specific industrial shifts.
+### Situation
 
-**Task:**  
-Create a comprehensive visualisation suite that allows for both high-level regional overviews and granular sector analysis.
+Economic fluctuations between 2011 and 2014 significantly impacted UK regions, requiring a clear way to distinguish between broad economic trends and specific industrial shifts.
 
-**Action:**  
-- **Data Architecture:** I utilised a dataset with a dual-layer structure: 1-digit (Broad Industries) and 2-digit (Detailed Sub-industries).  
-- **Visual Strategy:** I developed two distinct dashboards and multiple chart types (including geographic maps, bar charts, and heatmaps) to represent different facets of the data.  
-- **Validation:** I used Swansea as a primary validation point to test the accuracy of my calculated fields across both sheets. I confirmed that the broad growth in Arts & Entertainment (+42.7%) was correctly reflected when drilling down into specific sub-sectors.
+### Task
 
-**Result:**  
-The final product consists of a multi-dashboard setup where Dashboard 1 provides a macro view of the UK labour market, while subsequent views allow users to "drill down" into the 2-digit data for specific city-level insights.
+Create a comprehensive visualisation suite in Tableau that allows stakeholders to navigate between high-level regional overviews and granular sector-specific analysis.
 
+### Action
+
+- **Data Architecture:** I utilised a dual-layer dataset structure consisting of 1-digit (Broad Industries) and 2-digit (Detailed Sub-industries) sheets to allow for hierarchical exploration.
+- **Visual Strategy:** I developed two distinct dashboards using geographic maps for spatial distribution (highlighting the cities where changes were sharper), bar charts for ranking, and heat maps to visualise the intensity of sector shifts per specific cities.
+- **Analytical Validation:** I performed a cross-sheet validation using Swansea as a control. By tracing a +42.7% growth in the broad Arts & Entertainment sector down to specific sub-sectors, I ensured the accuracy of my calculated fields and data joins across the entire workbook.
+
+### Result & Key Findings
+
+The final product is a multi-dashboard setup that identifies a "two-speed" economy across the UK:
+
+- **Regional Growth Divergence:** The analysis highlighted significant localised booms, such as Aberdeen’s Administrative and Support sector, which grew by +32.2% (adding over 7,200 jobs).
+- **Granular Insights:** The "drill-down" functionality revealed that growth in one area often masked declines in others. For instance, in Swansea, the high growth in leisure was contrasted by a sharp -21.9% decline in Professional and Scientific services.
+- **Public Sector Contraction:** Traditional sectors faced widespread challenges, notably in Birmingham, where Public Administration and Defence saw a -5.3% decrease, representing a loss of 2,680 jobs.
+  
 ### Live Dashboards:
 [Dashboard 1](https://public.tableau.com/views/Change_17711741128970/Dashboard12?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 [Dashboard 2](https://public.tableau.com/views/Change_17711741128970/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -46,6 +54,6 @@ The following are just screenshots of some reports. For a better experience, kin
 
 <img src="dos.png">
 
-<img src="six.png">
+<img src="tres.png">
 
 
