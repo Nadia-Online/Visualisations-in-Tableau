@@ -17,7 +17,8 @@ Create a comprehensive visualisation suite that allows for both high-level regio
 **Result:**  
 The final product consists of a multi-dashboard setup where Dashboard 1 provides a macro view of the UK labour market, while subsequent views allow users to "drill down" into the 2-digit data for specific city-level insights.
 
-**Live Dashboards:** [Dashboard 1](https://public.tableau.com/views/Change_17711741128970/Dashboard12?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### Live Dashboards:
+[Dashboard 1](https://public.tableau.com/views/Change_17711741128970/Dashboard12?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 [Dashboard 2](https://public.tableau.com/views/Change_17711741128970/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
@@ -34,12 +35,13 @@ Finally, outliers help us distinguish between speed and magnitude. The public sh
 
 By watching how these extremes evolve, the public can better understand where the economy is "tilting" and prepare for the future. 
 
-The following are just screenshots, kindly refer to the live dashboards for further visualisations.
 
 ## 📊  Interact with the reports
-*   🔗 **[Interact with the reports about discounts here](https://sites.google.com/view/nadia-online/projects/deep-analysis)**
+
 *   **[Download the WorkBook file from here](Change.twb)**
-*   
+
+The following are just screenshots of some reports. For a better experience, kindly visit the links to see them live ⬆️ 
+  
 <img src="una.png">
 
 <img src="dos.png">
