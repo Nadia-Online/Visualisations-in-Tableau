@@ -27,22 +27,49 @@ The final product is a multi-dashboard setup that identifies a "two-speed" econo
   
 ### Live Dashboards:
 [Dashboard 1](https://public.tableau.com/views/Change_17711741128970/Dashboard12?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-[Dashboard 2](https://public.tableau.com/views/Change_17711741128970/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Dashboard 2](https://public.tableau.com/views/Change_17711741128970/Dashboard4?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 
 ### 💡 Insights
 
-To understand the UK economy, we often look at the "average" trend, but the sources suggest that the most extreme data points—the outliers—provide the most critical lessons. To be clear, we are not suggesting that national trends are "hiding" inside these anomalies. Instead, we pay attention to outliers because they serve as essential signals for organizations to either encourage or prevent specific economic shifts.
+## Beyond the Average: Learning from the Extremes
 
-First, outliers act as "Success Blueprints." For example, while professional services grew in many places, Nottingham-Derby saw a massive 47.9% surge. By studying the driving forces behind this specific success, other cities can learn how to replicate that growth.
+To understand the UK economy, we often look at the "average" trend, but the data suggests that the most extreme data points—the outliers—provide the most critical lessons. In this project, I treated outliers as essential signals rather than anomalies.
 
-Second, outliers are "Early Warning Signs." The sharp -27.0% drop in Public Administration in Cardiff-Newport and -26.7% in Swansea are localized shocks. If an organisation wants to prevent such declines from spreading, it must understand the forces—such as budget shifts or relocation—behind these specific extremes.
+### 1. Outliers as "Success Blueprints"
 
-Finally, outliers help us distinguish between speed and magnitude. The public should understand that an outlier in percentage can be different from an outlier in actual jobs.Swansea’s 53.2% growth in Real Estate is a high-speed outlier but represents only 1,241 jobs. In contrast, London’s 19.4% growth in the Professional sector added over 100,000 jobs, showing massive scale. 
+Outliers highlight regions that have unlocked unique growth engines. For example, while professional services grew moderately in most UK hubs, **Nottingham-Derby** saw a massive **+47.9%** surge in Professional, Scientific and Technical Activities. By studying the driving forces behind this specific success, other cities can learn how to replicate that momentum.
 
-By watching how these extremes evolve, the public can better understand where the economy is "tilting" and prepare for the future. 
+### 2. Outliers as "Early Warning Signs"
 
+Sharp declines serve as localised shocks that warrant investigation. My analysis revealed:
+
+- **Cardiff-Newport** experienced a significant **-27.0%** drop in Professional, Scientific and Technical Activities.
+- **Newcastle-Sunderland** saw a **-26.7%** decline in Other Service Activities.
+
+Understanding the forces behind these specific extremes, such as regional budget shifts or industrial relocations, is crucial for organisations looking to prevent these trends from spreading.
+
+### 3. Distinguishing Speed vs. Magnitude
+
+A key finding from the dashboard is that a high percentage change does not always equal a high volume of jobs.
+
+- **Swansea’s** Real Estate sector showed steady growth of **+11.5%**, which represents a gain of **277 jobs**.
+- In contrast, **London’s** growth in the Professional sector (at a lower percentage) added **over 100,000 jobs**, demonstrating the massive scale of the capital.
+- The most extreme growth in the dataset was found in **Newcastle-Sunderland**, where Electricity, Gas, and Steam grew by **+53.2%**.
+
+### 4. The Swansea Validation
+
+Through my validation process, I confirmed that Swansea's Public Administration showed stable growth of **+0.9%**. However, the city's real story was in Arts, Entertainment, and Recreation, which saw a boom of **+42.7%**, signalling a shift toward a leisure-driven regional economy.
+
+### The National Picture: Redistribution, Not Just Loss
+
+And finally, the data suggests that during this period, jobs were not necessarily "lost" to the economy—they were redistributed. While Public Administration **(-49,500 jobs)** and Manufacturing **(-28,000 jobs)** faced contraction nationwide, these losses were more than offset by massive surges in Professional Services **(+134,600 jobs)** and Administrative Support **(+120,000 jobs)** .
+
+### Conclusion
+
+The analysis proves that the UK economy is "tilting" rather than shrinking. By identifying these extremes, we can better understand where the economy is moving and prepare for a future where traditional sectors are being replaced by high-growth service and technical industries.
+```
 
 ## 📊  Interact with the reports
 
