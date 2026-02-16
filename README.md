@@ -69,11 +69,10 @@ And finally, the data suggests that during this period, jobs were not necessaril
 ### Conclusion
 
 The analysis proves that the UK economy is "tilting" rather than shrinking. By identifying these extremes, we can better understand where the economy is moving and prepare for a future where traditional sectors are being replaced by high-growth service and technical industries.
-```
 
-## 📊  Interact with the reports
+### 📊 Interact with the reports
 
-*   **[Download the WorkBook file from here](Change.twb)**
+[Download the WorkBook file from here](Change.twb)
 
 The following are just screenshots of some reports. For a better experience, kindly visit the links to see them live ⬆️ 
   
