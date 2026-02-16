@@ -33,3 +33,13 @@ Second, outliers are "Early Warning Signs." The sharp -27.0% drop in Public Admi
 Finally, outliers help us distinguish between speed and magnitude. The public should understand that an outlier in percentage can be different from an outlier in actual jobs.Swansea’s 53.2% growth in Real Estate is a high-speed outlier but represents only 1,241 jobs. In contrast, London’s 19.4% growth in the Professional sector added over 100,000 jobs, showing massive scale. 
 
 By watching how these extremes evolve, the public can better understand where the economy is "tilting" and prepare for the future. 
+
+The following are just screenshots, kindly refer to the live dashboards for further visualisations.
+
+<img src="una.png">
+
+<img src="dos.png">
+
+<img src="six.png">
+
+[Open the workbook here] 
