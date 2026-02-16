@@ -1,26 +1,26 @@
 
-# Data Analytics Portfolio: UK Labour Markets 
+### 📈  Shifts in UK Employment Markets (2011/2014) 
 
-This repository contains data visualisation projects developed in Tableau to analyse regional economic shifts in the United Kingdom 
+This repository contains data visualisation projects developed in Tableau to analyse regional economic shifts in the United Kingdom. The data set is named as UK Industrial Employment Trends (EMSI) and was provided by JustIT.
 
-## 📈 Project 1: UK Industrial Employment Trends (EMSI)
+**Situation:**  
+Economic fluctuations between 2011 and 2014 significantly impacted UK regions, requiring a clear way to distinguish between broad trends and specific industrial shifts.
+
+**Task:**  
+Create a comprehensive visualisation suite that allows for both high-level regional overviews and granular sector analysis.
+
+**Action:**  
+- **Data Architecture:** I utilised a dataset with a dual-layer structure: 1-digit (Broad Industries) and 2-digit (Detailed Sub-industries).  
+- **Visual Strategy:** I developed two distinct dashboards and multiple chart types (including geographic maps, bar charts, and heatmaps) to represent different facets of the data.  
+- **Validation:** I used Swansea as a primary validation point to test the accuracy of my calculated fields across both sheets. I confirmed that the broad growth in Arts & Entertainment (+42.7%) was correctly reflected when drilling down into specific sub-sectors.
+
+**Result:**  
+The final product consists of a multi-dashboard setup where Dashboard 1 provides a macro view of the UK labour market, while subsequent views allow users to "drill down" into the 2-digit data for specific city-level insights.
 
 **Live Dashboards:** [Dashboard 1](https://public.tableau.com/views/Change_17711741128970/Dashboard12?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 [Dashboard 2](https://public.tableau.com/views/Change_17711741128970/Dashboard3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Situation:**  
-Economic fluctuations between 2011 and 2014 significantly impacted various UK regions. There was a need to identify which industries were thriving and which were contracting to help inform regional development strategies.
 
-**Task:**  
-Create an interactive dashboard that allows stakeholders to compare job growth and decline across major UK cities using SIC (Standard Industrial Classification) codes.
-
-**Action:**  
-- **Data Structure:** Processed a complex dataset organised into two primary sheets: 1-digit (Broad Industries) for high-level sector overviews and 2-digit (Detailed Sub-industries) for granular analysis.  
-- **Calculated Fields:** Created custom formulas in Tableau to determine the % Change in jobs, ensuring consistency between aggregation levels.  
-- **Regional Analysis:** Focused on Swansea as a primary case study. Using the 1-digit data, identified growth in Arts & Entertainment (+42.7%). Using the 2-digit data, drilled down to see that while Public Administration remained stable, specific sub-sectors like Professional Services faced significant contraction (-21.9%).
-
-**Result:**  
-The dashboard successfully visualises the "two-speed" economy, allowing users to see the big picture while investigating the specific sub-industries driving those trends and how the differ from city to city.
 
 ### 💡 Insights
 
@@ -28,7 +28,7 @@ To understand the UK economy, we often look at the "average" trend, but the sour
 
 First, outliers act as "Success Blueprints." For example, while professional services grew in many places, Nottingham-Derby saw a massive 47.9% surge. By studying the driving forces behind this specific success, other cities can learn how to replicate that growth.
 
-Second, outliers are "Early Warning Signs." The sharp -27.0% drop in Public Administration in Cardiff-Newport and -26.7% in Swansea are localized shocks. If an organization wants to prevent such declines from spreading, it must understand the forces—such as budget shifts or relocation—behind these specific extremes.
+Second, outliers are "Early Warning Signs." The sharp -27.0% drop in Public Administration in Cardiff-Newport and -26.7% in Swansea are localized shocks. If an organisation wants to prevent such declines from spreading, it must understand the forces—such as budget shifts or relocation—behind these specific extremes.
 
 Finally, outliers help us distinguish between speed and magnitude. The public should understand that an outlier in percentage can be different from an outlier in actual jobs.Swansea’s 53.2% growth in Real Estate is a high-speed outlier but represents only 1,241 jobs. In contrast, London’s 19.4% growth in the Professional sector added over 100,000 jobs, showing massive scale. 
 
